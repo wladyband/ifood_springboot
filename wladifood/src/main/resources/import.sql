@@ -1,3 +1,5 @@
+
+ALTER SEQUENCE cozinha_id_seq RESTART WITH 3;
 insert into cozinha (id, nome) values (1, 'Tailandesa');
 insert into cozinha (id, nome) values (2, 'Indiana');
 
